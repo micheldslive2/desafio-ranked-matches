@@ -1,0 +1,1 @@
+require("./ranked-matches");
